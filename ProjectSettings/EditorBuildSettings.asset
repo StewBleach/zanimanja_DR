@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PMP.unity
+    guid: 6272a5c9c9488354c92ae6a939aa2561
+  - enabled: 1
+    path: Assets/Scenes/NO1.unity
+    guid: 4d7cb3b293d6b6c42b201f79bbf4c1b7
+  - enabled: 1
+    path: Assets/Scenes/Zadaci1.unity
+    guid: d1a80f058c9afd84c8a266710fc079a3
+  - enabled: 1
+    path: Assets/Scenes/Story0.unity
+    guid: 0a79fa02fd3393f4b83a0f95dcdec6c4
+  - enabled: 1
+    path: Assets/Scenes/Story1.unity
+    guid: 3b407b07deec8e347a5cc5b2bf371956
+  - enabled: 1
+    path: Assets/Scenes/Story2.unity
+    guid: 2464d9921658a49478922c2d1f9a582d
+  - enabled: 1
+    path: Assets/Scenes/Story3.unity
+    guid: 9cb4344ef21e8b044a2dc9103dfc3f23
+  - enabled: 1
+    path: Assets/Scenes/Story4.unity
+    guid: 1a67f8c951362e444b66d94e0ae12a63
+  - enabled: 1
+    path: Assets/Scenes/Story5.unity
+    guid: f3f315ec8283963428e98faeafd4afa1
+  - enabled: 1
+    path: Assets/Scenes/Story6.unity
+    guid: 1f792506ec38d364e89fa6184cfba32b
+  - enabled: 1
+    path: Assets/Scenes/EndOfQuiz1.unity
+    guid: cf4725be7d9632d44a35a9d45aeb6c6f
+  - enabled: 1
+    path: Assets/Scenes/EndOfQuiz2.unity
+    guid: 50b57aceff9b7954fb9d3c7d91ee6ef3
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 72b0739f8eb7bce418f60fe968577665
+  m_configObjects: {}
