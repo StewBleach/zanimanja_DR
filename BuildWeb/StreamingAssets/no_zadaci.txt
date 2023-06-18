@@ -1,0 +1,80 @@
+1/Kome idemo kad nam je pokvaren auto?/1_m/2_f/3_m/1_m
+2/Tko čisti smeće i nečistoću?/40_f/1_m/2_f/2_f
+3/Tko upravlja orkestom?/2_f/3_m/4_f/3_m
+4/Kome idemo kad imamo problema sa strujom?/4_f/5_m/6_f/4_f
+5/Kome idemo na šišanje?/3_f/4_m/5_m/5_m
+6/Koga ćemo pozvati da nam donese sok?/5_m/6_f/7_m/6_f
+7/Koga gledamo kako igra košarku?/7_m/8_f/9_f/7_m
+8/Tko nam može izraditi metalnu potkovu?/6_f/7_m/8_f/8_f
+9/Kome trebamo otići ako imamo rasparanu odjeću?/8_f/9_m/10_f/9_m
+10/Kome idemo kad smo gladni?/10_f/11_m/12_f/10_f
+11/Kome idemo kad smo bolesni?/9_m/10_f/11_m/11_m
+12/Kod koga idemo kupiti lijekove?/11_m/12_f/13_m/12_f
+13/Tko pomaže liječnicima njegovati bolesne ljude?/13_m/14_f/15_m/13_m
+14/Kod koga idemo kupiti meso?/12_f/13_m/14_f/14_f
+15/Koga gledamo kako igra nogomet?/14_f/15_m/16_f/15_m
+16/Kod koga idemo kupiti kruh?/16_f/17_m/18_f/16_f
+17/Tko nam je potreban kada želimo letjeti zrakoplovom?/15_m/16_f/17_m/17_m
+18/Koga slušamo kako pjeva?/17_m/18_f/19_m/18_f
+19/Koga gledamo kako pliva?/19_m/20_f/21_m/19_m
+20/Tko održava red i mir?/18_f/19_m/20_f/20_f
+21/Tko radi na polju?/20_f/21_m/22_f/21_m
+22/Kod koga možemo kupiti stvari i namirnice?/22_f/23_m/24_f/22_f
+23/Tko nam može napisati program za računalo?/21_m/22_f/23_m/23_m
+24/Kod koga ćemo kupiti kolače?/23_m/24_f/25_m/24_f
+25/Tko nam može naslikati sliku?/25_m/26_f/27_m/25_m
+26/Tko odvozi smeće?/24_f/25_m/26_f/26_f
+27/Tko spašava ljude od utapanja?/26_f/27_m/28_f/27_m
+28/Kod koga možemo kupiti stoku?/28_m/29_f/30_m/28_m
+29/Koga ćemo zvati ako trebamo srušiti stablo?/27_f/28_m/29_f/29_f
+30/Kod koga idemo trenirati?/29_f/30_m/31_f/30_m
+31/Tko podučava?/31_f/32_m/33_f/31_f
+32/Koga ćemo gledati kako igra vaterpolo?/30_m/31_f/32_m/32_m
+33/Koga zovemo da ugasi požar?/32_m/33_f/34_m/33_f
+34/Koga zovemo da nam popravi vodovod?/34_m/35_f/36_m/34_m
+35/Tko održava red i mir?/33_f/34_m/35_f/35_f
+36/Tko vozi autobus?/35_f/36_m/37_f/36_m
+37/Tko vozi taksi?/37_f/38_m/39_f/37_f
+38/Tko nam brine za vrt?/36_m/37_f/38_m/38_m
+39/Tko nam je potreban za zidanje?/39_f/40_m/1_f/39_f
+40/Tko će nam pokazati eksperiment?/38_m/39_f/40_m/40_m
+41/Kome idemo kad nam je pokvaren auto?/40_f/1_f/2_m/1_f
+42/Tko čisti smeće i nečistoću?/2_m/3_f/4_m/2_m
+43/Tko upravlja orkestom?/1_f/2_m/3_f/3_f
+44/Kome idemo kad imamo problema sa strujom?/3_f/4_m/5_f/4_m
+45/Kome idemo na šišanje?/5_f/6_m/7_f/5_f
+46/Koga ćemo pozvati da nam donese sok?/4_m/5_f/6_m/6_m
+47/Koga gledamo kako igra košarku?/6_m/7_f/8_m/7_f
+48/Tko nam može izraditi metalnu potkovu?/8_m/9_f/10_m/8_m
+49/Kome trebamo otići ako imamo rasparanu odjeću?/7_f/8_m/9_f/9_f
+50/Kome idemo kad smo gladni?/9_m/10_m/11_m/10_m
+51/Kome idemo kad smo bolesni?/11_f/12_m/10_f/11_f
+52/Kod koga idemo kupiti lijekove?/10_m/11_f/12_m/12_m
+53/Tko pomaže liječnicima njegovati bolesne ljude?/12_m/13_f/14_m/13_f
+54/Kod koga idemo kupiti meso?/14_m/15_f/16_m/14_m
+55/Koga gledamo kako igra nogomet?/13_f/14_m/15_f/15_f
+56/Kod koga idemo kupiti kruh?/15_f/16_m/17_f/16_m
+57/Tko nam je potreban kada želimo letjeti zrakoplovom?/17_f/18_m/19_f/17_f
+58/Koga slušamo kako pjeva?/16_m/17_f/18_m/18_m
+59/Koga gledamo kako pliva?/18_m/19_f/20_m/19_f
+60/Tko održava red i mir?/20_m/21_f/22_m/20_m
+61/Tko radi na polju?/19_f/20_m/21_f/21_f
+62/Kod koga možemo kupiti stvari i namirnice?/21_f/22_m/23_f/22_m
+63/Tko nam može napisati program za računalo?/23_f/24_m/25_f/23_f
+64/Kod koga ćemo kupiti kolače?/22_m/23_f/24_m/24_m
+65/Tko nam može naslikati sliku?/24_m/25_f/26_m/25_f
+66/Tko odvozi smeće?/26_m/27_f/28_m/26_m
+67/Tko spašava ljude od utapanja?/25_f/26_m/27_f/27_f
+68/Kod koga možemo kupiti stoku?/27_m/28_f/29_m/28_f
+69/Koga ćemo zvati ako trebamo srušiti stablo?/29_m/30_f/31_m/29_m
+70/Kod koga idemo trenirati?/28_f/29_m/30_f/30_f
+71/Tko podučava?/30_f/31_m/32_f/31_m
+72/Koga ćemo gledati kako igra vaterpolo?/32_f/33_m/34_f/32_f
+73/Koga zovemo da ugasi požar?/31_m/32_f/33_m/33_m
+74/Koga zovemo da nam popravi vodovod?/33_m/34_f/35_m/34_f
+75/Tko održava red i mir?/35_m/36_f/37_m/35_m
+76/Tko vozi autobus?/34_f/35_m/36_f/36_f
+77/Tko vozi taksi?/36_f/37_m/38_f/37_m
+78/Tko nam brine za vrt?/36_f/37_m/38_f/38_f
+79/Tko nam je potreban za zidanje?/38_f/39_m/40_f/39_m
+80/Tko će nam pokazati eksperiment?/40_f/1_m/2_f/40_f

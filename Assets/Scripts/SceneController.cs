@@ -179,7 +179,7 @@ public class SceneController : MonoBehaviour
         bool check = false;
         
         if(num == 1){
-            if(text4 == text1) {
+            if(string.Equals(text4.Trim(), text1.Trim())) {
                 check = true;
                 StaticClass.OK1IsOn = true;
             }else{
@@ -187,7 +187,7 @@ public class SceneController : MonoBehaviour
             }
         }
         else if(num == 2){
-            if(text4 == text2) {
+            if(string.Equals(text4.Trim(), text2.Trim())) {
                 check = true;
                 StaticClass.OK2IsOn = true;
             }else{
@@ -195,7 +195,7 @@ public class SceneController : MonoBehaviour
             }
         }
         else{
-            if(text4 == text3) {
+            if(string.Equals(text4.Trim(), text3.Trim())) {
                 check = true;
                 StaticClass.OK3IsOn = true;
             }else{
@@ -204,7 +204,7 @@ public class SceneController : MonoBehaviour
         }
 
         if (check == true){
-            
+
             int counter = StaticClass.CounterNO;
             counter++;
             StaticClass.CounterNO = counter;

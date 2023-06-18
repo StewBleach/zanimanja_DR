@@ -1,0 +1,29 @@
+1/Kamo idemo kad nam je pokvaren auto?/1/2/3/1
+2/Gdje slušamo orkestar?/2/3/4/3
+3/Kamo idemo na šišanje?/3/4/5/5
+4/Gdje ćemo popiti sok?/5/6/7/6
+5/Kamo idemo gledati košarku?/7/8/9/7
+6/Kamo ćemo ići ako trebamo metalnu potkovu?/6/7/8/8
+7/Kamo idemo ako trebamo zašiti rasparanu odjeću?/8/9/10/9
+8/Gdje se kuha hrana?/10/11/12/10
+9/Kamo idemo kad smo bolesni?/9/10/11/11
+10/Gdje ćemo kupiti lijekove?/11/12/15/12
+11/Gdje možemo kupiti meso?/12/13/14/14
+12/Kamo idemo gledati nogomet?/14/15/16/15
+13/Gdje kupujemo kruh?/16/17/18/16
+14/U čemu možemo letjeti?/15/16/17/17
+15/Gdje slušamo pjevača kako pjeva?/17/18/19/18
+16/Gdje gledamo plivačku utrku?/19/20/21/19
+17/Gdje kupujemo stvari i namirnice?/22/23/24/22
+18/Pomoću čega programer izrađuje programe?/21/22/23/23
+19/Gdje možemo kupiti kolače?/23/24/25/24
+20/Gdje možemo kupiti sliku?/25/26/27/25
+21/Gdje možemo kupiti stoku?/28/29/30/28
+22/Gdje se ruše stabla?/27/28/29/29
+23/Kamo idemo trenirati?/29/30/31/30
+24/Kamo idemo učiti?/31/32/33/31
+25/Gdje ćemo gledati vaterpolsku utakmicu?/30/31/32/32
+26/Čime se vozimo kad trebamo prijevoz?/34/36/39/36
+27/Čime se vozimo kad trebamo prijevoz?/37/38/39/37
+28/Gdje ćemo naći biljke i cvijeće?/36/37/38/38
+29/Gdje se izvode eksperimenti?/38/39/40/40

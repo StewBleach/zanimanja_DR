@@ -19,13 +19,29 @@ public class TextParserClass
 
     public Dictionary<string, string> returnDictionary(int num){
         //StreamReader reader = new StreamReader(path); 
-        StreamReader reader = new StreamReader(Application.streamingAssetsPath + "/zanimanja_tekst.txt");
+        //StreamReader reader = new StreamReader(Application.streamingAssetsPath + "/zanimanja_tekst.txt");
+        TextAsset file = Resources.Load<TextAsset>("Text/zanimanja_tekst");
+        string fileContent = file.text;
+        List<string> lines = new List<string>(fileContent.Split('\n'));
         string textAll;
         string[] splitArray;
         
         if(My_dict1.Count == 0 && My_dict2.Count==0 && My_dict3.Count==0 
         && My_dict4.Count==0 && My_dict5.Count==0 && My_dict6.Count==0 && My_dict7.Count==0){
-            do{
+            foreach(string line in lines){
+                textAll = line;
+                if (textAll == null) break;
+
+                splitArray = textAll.Split('/');
+                My_dict1[splitArray[0]]=splitArray[1];
+                My_dict2[splitArray[0]]=splitArray[2];
+                My_dict3[splitArray[0]]=splitArray[3];
+                My_dict4[splitArray[0]]=splitArray[4];
+                My_dict5[splitArray[0]]=splitArray[5];
+                My_dict6[splitArray[0]]=splitArray[6];
+                My_dict7[splitArray[0]]=splitArray[7];
+            }
+            /*do{
                 textAll = reader.ReadLine();
                 if (textAll == null) break;
 
@@ -37,10 +53,10 @@ public class TextParserClass
                 My_dict5[splitArray[0]]=splitArray[5];
                 My_dict6[splitArray[0]]=splitArray[6];
                 My_dict7[splitArray[0]]=splitArray[7];
-            } while (textAll != null);
+            } while (textAll != null);*/
         }
 
-        reader.Close();
+        //reader.Close();
 
         switch(num){
             case 1:

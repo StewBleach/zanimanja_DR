@@ -1,0 +1,40 @@
+1/Automehaničari/Ovo je automehaničar./Ovo je automehaničarka./Automehaničari popravljaju vozila./Ovo je automehaničarska radionica./Automehaničari rade u automehaničarskoj radionici./Automehaničarima dovozimo automobil na popravak.
+2/Čistači/Ovo je čistač./Ovo je čistačica./Čistači uklanjaju smeće i nečistoću./Ovo su kuće i zgrade./ Čistači mogu raditi u zgradama i kućama./ Čistači čiste kuće i zgrade.
+3/Dirigenti/Ovo je dirigent./Ovo je dirigentica./Dirigenti upravljaju orkestrom./Ovo je koncertna dvorana./Dirigenti rade u koncertnoj dvorani./Dirigenti upravljaju orkestrom.
+4/Električari/Ovo je električar./Ovo je električarka./Električari popravljaju električne instalacije./Ovo je grad./Električari mogu raditi bilogdje u gradu./ Električari nam pomažu otkloniti probleme sa strujom.
+5/Frizeri/Ovo je frizer./Ovo je frizerka./Frizeri šišaju kosu./Ovo je frizerski salon./Frizeri rade u frizerskom salonu./Frizerima idemo kada želimo novu frizuru.
+6/Konobari/Ovo je konobar./Ovo je konobarica./Konobari poslužuju piće i hranu./Ovo je restoran./Konobari rade u restoranu./Konobare zovemo kada želimo da nam se hrana i piće posluže.
+7/Košarkaši/Ovo je košarkaš./Ovo je košarkašica./Košarkaši igraju košarku./Ovo je košarkaški teren./Košarkaši igraju košarku na košarkaškom terenu./ Košarkaše gledamo kako igraju košarku.
+8/Kovači/Ovo je kovač./Ovo je kovačica./Kovači oblikuju metal./Ovo je kovačnica./ Kovači rade u kovačnici./Kovačima idemo kada želimo da nam izrade metalni predmet.
+9/Krojači/Ovo je krojač./Ovo je krojačica./Krojači šiju odjeću./Ovo je krojačnica./Krojači rade u krojačnici./Krojačima idemo da bi nam sašili odjeću.
+10/Kuhari/Ovo je kuhar./Ovo je kuharica./Kuhari kuhaju hranu./Ovo je kuhinja./Kuhari rade u kuhinji./Kuhari nam kuhaju hranu kad smo gladni.
+11/Liječnici/Ovo je liječnik./Ovo je liječnica./Liječnici liječe bolesne ljude./Ovo je bolnica./Liječnici rade u bolnici./Liječnicima idemo na pregled kad smo bolesni.
+12/Ljekarnici/Ovo je ljekarnik./Ovo je ljekarnica./Ljekarnici prodaju lijekove./Ovo je ljekarna./Ljekarnici rade u ljekarni./Kod ljekarnika idemo kupiti lijekove.
+13/Medicinski tehničari/Ovo je medicinski tehničar./Ovo je medicinska sestra./Medicinski tehničar i medicinska sestra pomažu liječnicima u njezi bolesnih ljudi./ Ovo je bolnica./Medicinski tehničar i medicinska sestra rade u bolnici./Medicinski tehničar i medicinska sestra brinu o nama kad smo bolesni.
+14/Mesari/Ovo je mesar./Ovo je mesarka./Mesari prodaju meso./Ovo je mesnica./Mesari rade u mesnici./Mesarima idemo kad nam je potrebno meso.
+15/Nogometaši/Ovo je nogometaš./Ovo je nogometašica./Nogometaši igraju nogomet./Ovo je nogometni stadion./ Nogometaši igraju nogomet na nogometnom stadionu./Nogometaše gledamo kako igraju nogomet.
+16/Pekari/Ovo je pekar./Ovo je pekarica./Pekari peku kruh i peciva./Ovo je pekara./Pekari rade u pekari./Pekarima idemo kad nam treba pecivo ili kruh.
+17/Piloti/Ovo je pilot./Ovo je pilotkinja./Piloti upravljaju zrakoplovom./Ovo je zrakoplov./Piloti rade u zrakoplovu./Piloti su nam potrebni kada želimo zrakoplovom letjeti na udaljeno mjesto.
+18/Pjevači/Ovo je pjevač./Ovo je pjevačica./Pjevači pjevaju pjesme./Ovo je pozornica./Pjevači nastupaju na pozornici./Pjevače slušamo kako pjevaju.
+19/Plivači/Ovo je plivač./Ovo je plivačica/Plivači se utrkuju plivajući./Ovo je bazen./Plivači plivaju u bazenu./Plivače gledamo kako se natječu u plivačkoj utrci.
+20/Policajci/Ovo je policajac./Ovo je policajka./Policajaci održavaju red i mir./Ovo je policijska stanica./Policajci rade u policijskoj stanici./Policajci brinu o našoj sigurnosti.
+21/Poljoprivrednici/Ovo je poljoprivrednik./Ovo je poljoprivrednica./Poljoprivrednici uzgajaju žitarice i povrće./Ovo je polje./Poljoprivrednici rade na polju./Poljoprivrednici su nam potrebni kako bismo imali žitarice i povrće.
+22/Prodavači/Ovo je prodavač./Ovo je prodavačica./Prodavači prodaju stvari i namirnice./Ovo je trgovina./Prodavači rade u trgovini./Prodavači nam prodaju stvari i namirnice.
+23/Programeri/Ovo je programer./Ovo je programerka./Programeri izrađuju programe./Ovo je računalo./Programeri rade za računalom./Programeri izrađuju programe za računalo i mobitele.
+24/Slastičari/Ovo je slastičar./Ovo je slastičarka./Slastičari izrađuju slastice./Ovo je slastičarnica./Slastičari rade u slastičarnici./Slastičarima idemo kupiti kolače i torte.
+25/Slikari/Ovo je slikar./Ovo je slikarica./Slikari slikaju slike./Ovo je slikarski atelje./Slikari rade u slikarskom ateljeu./Slikarima idemo kupiti slike.
+26/Smetlari/Ovo je smetlar./Ovo je smetlarka./Smetlari čiste grad od smeća./Ovo je grad./Smetlari rade u gradu./Smetlari skupljaju i odvoze naše smeće.
+27/Spasioci/Ovo je spasioc./Ovo je spasiteljica./Spasioci spašavaju ljude u vodi./Ovo je plaža./Spasioci rade na plaži./Spasioci nas spašavaju od utapanja.
+28/Stočari/Ovo je stočar./Ovo je stočarka./Stočari uzgajaju stoku./Ovo je farma./Stočari rade na farmi./Stočarima idemo kada želimo kupiti stoku.
+29/Šumari/Ovo je šumar./Ovo je šumarka./Šumari brinu o šumi./Ovo je šuma./Šumari rade u šumi./Šumare zovemo kada treba srušiti stablo.
+30/Treneri/Ovo je trener./Ovo je trenerica./Treneri treniraju sportaše./Ovo je sportska dvorana./Treneri rade u sportskoj dvorani./Trenerima idemo kada želimo trenirati.
+31/Učitelji/Ovo je učitelj./Ovo je učiteljica./Učitelji podučavaju ljude./Ovo je škola./Učitelji rade u školi./Učitelji nas podučavaju.
+32/Vaterpolisti/Ovo je vaterpolist./Ovo je vaterpolistica./Vaterpolisti igraju vaterpolo./Ovo je bazen./Vaterpolisti igraju vaterpolo u bazenu./Vaterpoliste gledamo kako igraju vaterpolo.
+33/Vatrogasci/Ovo je vatrogasac./Ovo je vatrogaskinja./Vatrogasci gase požar./Ovo je vatrogasna postaja./Vatrogasci rade u vatrogasnoj postaji./Vatrogasce zovemo da ugase požar.
+34/Vodoinstalateri/Ovo je vodoinstalater./Ovo je vodoinstalaterka./Vodoinstalateri popravljaju vodovod./Ovo su zgrade i kuće./Vodoinstalateri rade u kućama i zgradama./Vodoinstalatere zovemo kad nam treba popravak vodovoda.
+35/Vojnici/Ovo je vojnik./Ovo je vojnikinja./Vojnici održavaju red i mir./Ovo je vojarna./Vojnici rade u vojarni./Vojnici brinu o našoj sigurnosti.
+36/Vozači autobusa/Ovo je vozač autobusa./Ovo je vozačica autobusa./Vozači autobusa voze autobus./Ovo je autobus./Vozači autobusa rade u autobusu./Vozači autobusa su nam potrebni kad se autobusom želimo voziti do nekog mjesta.
+37/Vozači taksija/Ovo je vozač taksija./Ovo je vozačica taksija./Vozači taksija voze taksi./Ovo je taksi./Vozači taksija rade u taksiju./Vozače taksija zovemo kada se želimo voziti taksijem.
+38/Vrtlari/Ovo je vrtlar./Ovo je vrtlarka./Vrtlari se brinu za vrt./Ovo je vrt./Vrtlari rade u vrtu./Vrtlari brinu za biljke u našem vrtu.
+39/Zidari/Ovo je zidar./Ovo je zidarka./Zidari zidaju građevine./Ovo je gradilište./Zidari rade na gradilištu./Zidari su nam potrebni kada trebamo nešto zidati.
+40/Znanstvenici/Ovo je znanstvenik./Ovo je znanstvenica./Znanstvenici rade pokuse./Ovo je laboratorij./Znanstvenici rade u laboratoriju./Znanstvenici nam pokazuju pokuse i eksperimente.
